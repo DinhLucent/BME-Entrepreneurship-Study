@@ -1,7 +1,14 @@
-# entrepreneurship-for-biomedical-engineering
-```
-How operate a medical instrument business?
-link-full-course-with-my-work: https://drive.google.com/drive/folders/1SxHcYMjqFXrTuLWA24-TJBiKWPRNsV9G?usp=sharing
-link-myteam: https://drive.google.com/drive/folders/1V1-zM77Epw6zJmfD6UzlFkoh6lCgF3hR?usp=sharing
-Value: design professional slide, design web with webtool, run an entrereneuship medical project
-```
+# BME-Entrepreneurship-Study
+
+A project exploring the intersection of Biomedical Engineering (BME) and business entrepreneurship. This repo contains research, case studies, and business plans for medical technology startups.
+
+## ┬┐ Key Areas
+- **Market Analysis**: Evaluating opportunities in the medical device industry.
+- **Product Development**: From clinical need to commercial product.
+- **Regulatory Affairs**: Understanding FDA/CE certification processes.
+
+## ┬┐ Project Structure
+- `docs/`: Case studies and formal reports.
+
+---
+*Created by DinhLucent - 2022 (Updated 2026)*
